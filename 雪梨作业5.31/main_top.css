@@ -1,0 +1,36 @@
+/*
+* @Author: 段段
+* @Date:   2020-05-29 20:16:53
+* @Last Modified by:   段段
+* @Last Modified time: 2020-05-30 16:56:46
+*/
+	.main_top{
+		width: 920px;
+		height: 40px;
+		margin: 0 auto;
+	}
+	.main_top_a {
+		width: 160px;
+		float: left;
+		font-size:20px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(73,73,73,1);
+		line-height: 40px;
+	}
+	.main_top_b {
+		padding-left: 680px;
+		width:80px;
+		display: inline-block;
+		float: left;
+		line-height: 40px;
+		font-size:12px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(165,165,165,1);
+	}
+	.main_br{
+		width: 920px;
+		height: 10px;
+		margin: 0 auto;
+	}

@@ -1,0 +1,84 @@
+/*
+* @Author: 段段
+* @Date:   2020-05-29 20:16:53
+* @Last Modified by:   段段
+* @Last Modified time: 2020-05-30 11:07:08
+*/
+	* {
+		padding: 0;
+		margin: 0;
+	}
+	a {
+		text-decoration: none;
+	}
+	ul {
+		list-style-type: none;
+	}
+	.top{
+		height: 80px;
+		width:1400px;
+	}
+	.top_a{
+		height: 80px;
+		width:920px;
+		margin: 0 auto;
+	}
+	.first{
+		float: left;
+	}
+	.top_b{
+		width:160px;
+		height: 80px;
+		line-height: 80px;
+	}
+	.top_b_a{
+		font-size:40px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(0,164,255,1);
+	}
+	.top_c{
+		width: 400px;
+		height: 80px;
+	}
+	li {
+ 		display: inline-block;
+ 		float: left;
+ 		margin-left: 80px;
+ 		margin-top: 30px;
+		padding-top: 3px;
+ 		text-align: center;
+ 	}
+	.top_d{
+		width: 280px;
+		height: 80px;
+		margin-top: 30px;
+		padding-top: 3px;
+ 		text-align: center;
+	}
+	.placeholder {
+		size:14px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(191,191,191,1);
+		margin-left: 2px;
+	}
+	.input_img{
+		position: absolute;
+	}
+	.top_e{
+		width: 80px;
+		height: 80px;
+		margin-top: 30px;
+		padding-top: 3px;
+ 		text-align: center;
+	}
+	.p{
+		display: inline-block;
+		text-decoration: none;
+		text-align: center;
+		font-size:14px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(102,102,102,1);
+	}

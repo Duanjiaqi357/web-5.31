@@ -1,0 +1,52 @@
+/*
+* @Author: 段段
+* @Date:   2020-05-29 20:16:53
+* @Last Modified by:   段段
+* @Last Modified time: 2020-05-31 17:33:26
+*/
+.last{
+	width: 1200px;
+	height:80px;
+}
+.footer{
+	width: 90%;
+	margin:auto;
+	display: grid;
+  	grid-template-columns: 50% 16% 16% 16%;
+	justify-items:left;
+	align-items:centers;
+}
+.footer>.foot_section0{
+	display: grid;
+	justify-items:left;
+	grid-row-gap:25px;
+}
+.footer>.foot_section1,.foot_section2{
+	display: grid;
+	grid-row-gap:2px;
+}
+.footer>.foot_section3{
+	display: grid;
+	grid-template-rows:30px 20px 20px;
+	grid-row-gap:2px;
+}
+.footer .title{
+	font-size: 16px;
+}
+.footer>.sec{
+	font-size: 10px;
+}
+.footer .foot_sec0_title{
+    font-size: 36px;
+    font-family: Microsoft YaHei;
+    font-weight: bold;
+    color: rgba(0,164,255,1);
+}
+.footer .foot_sec0_ctx{}
+.footer .foot_sec0_btn{
+	width: 120px;
+    height: 36px;
+    border: 1px solid #00A4FF;
+    line-height: 36px;
+    text-align: center;
+}

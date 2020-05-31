@@ -1,0 +1,280 @@
+/*
+* @Author: 段段
+* @Date:   2020-05-29 20:55:08
+* @Last Modified by:   段段
+* @Last Modified time: 2020-05-31 17:40:43
+*/
+ 	.container0{
+ 		width: 1200px;
+ 		height: 1300px;
+ 		background-color: #F3F5F7;
+ 	}
+    .container1 {
+		width: 1000px;
+		height: 556px;
+    	margin: 0 auto;
+	}
+	.pic {
+		display: inline-block;
+		width: 180px;
+	}
+	.pclass {
+		display: inline-block;
+		float: left;
+		width: 180px;
+		height: 155px;
+	}
+	.class {
+		float: left;
+		width: 140px;
+		height: 115px;
+		background-color: white;
+		position: relative;
+		left: -23px;
+	}
+	.pic {
+		float: left;
+		margin-left: 10px;
+	}
+	.pic2 {
+		margin-top: 15px;
+	}
+	.pic.first {
+		margin-left: 0;
+	}
+	.jieshao {
+		display: inline-block;
+		width: 185px;
+		padding-top: 23px;
+		padding-left: 23px;
+		font-size:14px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:20px;
+	}
+	.xuexi {
+		padding-top: 18px;
+		padding-left: 23px;
+		font-size:12px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(153, 153, 153, 1);
+	}
+	.gaoji {
+		color: rgba(255, 124, 45, 1);
+	}
+	.dot {
+		font-weight: bold;
+	}
+	.container2 {
+		width: 1000px;
+		height: 77px;
+    	margin: 0 auto;
+	}
+	.qianduan {
+		display: inline-block;
+		font-size:20px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(73,73,73,1);
+		line-height: 77px;
+	}
+	.level {
+		display: inline-block;
+		margin-left: 291px;
+	}
+	.link {
+		display: inline-block;
+		margin-left: 60px;
+		font-size:16px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color: rgba(134, 134, 134, 1);
+	}
+	.link:hover {
+		color: rgba(0, 164, 255, 1);
+	}
+	.link.first {
+		margin-left: 0;
+	}
+	.chakan {
+		display: inline-block;
+		float: right;
+		line-height: 77px;
+		font-size:12px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(165,165,165,1);
+	}
+
+
+
+
+
+	.container3 {
+		width: 1000px;
+		height: 270px;
+    	margin: 0 auto;
+	}
+	.pic {
+		display: inline-block;
+		width: 180px;
+	}
+	.pclass {
+		display: inline-block;
+		float: left;
+		width: 180px;
+		height: 155px;
+	}
+	.class {
+		float: left;
+		width: 180px;
+		height: 115px;
+		background-color: white;
+	}
+	.pic {
+		float: left;
+		margin-left: 15px;
+	}
+	.pic.first {
+		margin-left: 0;
+	}
+	.jieshao {
+		display: inline-block;
+		width: 185px;
+		padding-top: 23px;
+		padding-left: 23px;
+		font-size:14px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:20px;
+	}
+	.xuexi {
+		padding-top: 18px;
+		padding-left: 23px;
+		font-size:12px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(153, 153, 153, 1);
+	}
+	.xuexi1 {
+		padding-top: 38px;
+		padding-left: 23px;
+		font-size:12px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(153, 153, 153, 1);
+	}
+	.gaoji {
+		color: rgba(255, 124, 45, 1);
+	}
+	.dot {
+		font-weight: bold;
+	}
+
+
+
+
+
+	.container4 {
+		width: 1000px;
+		height: 77px;
+    	margin: 0 auto;
+	}
+	.tuijian {
+		display: inline-block;
+		font-size:20px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(73,73,73,1);
+		line-height: 77px;
+	}
+
+
+
+
+
+	.container5 {
+		width: 1000px;
+		height: 320px;
+    	margin: 0 auto;
+	}
+	.pic3 {
+		display: inline-block;
+		float: left;
+		position: relative;
+		width:400px; 
+		height:320px;
+	}
+	.pic3f {
+		width: 400px;
+		height: 320px;
+	}
+	.teacher {
+		margin-left: 15px;
+		width: 180px;
+	}
+	.wenzi_1 {
+		color: white;
+		position: absolute;
+		top: 99px;
+		left: 25px;
+	}
+	.biye {
+		font-size: 30px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(249,225,3,1);
+	}
+	.zhuanshen {
+		font-size: 27px;
+		font-family:Microsoft YaHei;
+		color:rgba(255, 255, 255, 1);
+	}
+	.dianji {
+		display: inline-block;
+		margin-left: 3px;
+		margin-top: 12px;
+		font-size:13px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(249,225,3,1);
+		line-height:24px;
+		text-align: center;
+		width: 86px;
+		height: 24px;
+		border: 1px solid rgba(249,225,3,1);
+	}
+	.wenzi_2 {
+		width: 180px;
+		height: 122px;
+		background-color: rgba(0,0,0,0.5);
+		position: absolute;
+		bottom: 0;
+	}
+	.wenzi_2 p {
+		width: 175px;
+		height: 90px;
+		margin-top: 21px;
+		margin-left: 5px;
+	}
+	.laoshi {
+		font-size:18px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color: rgba(255,255,255,1);
+	}
+	.zhuanye {
+		font-size: 14px;
+		font-family: Microsoft YaHei;
+		color: rgba(255,255,255,1);
+	}
+	.jieshao_a {
+		display: inline-block;
+		margin-top: 12px;
+		font-size: 12px;
+		font-family: Microsoft YaHei;
+		color: rgba(255,255,255,1);
+	}
